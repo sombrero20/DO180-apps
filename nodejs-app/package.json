@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "build": "node ./server.js" 
-  }
+  },
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
